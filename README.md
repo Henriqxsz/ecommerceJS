@@ -2,7 +2,11 @@
 
 ###
 
-<h4 align="left">tecnologias:</h4>
+<p align="left">Funcionalidades:<br><br>- Carrinho de Compras: Adicione produtos ao carrinho de compras<br><br>- Design responsivo e fácil de usar<br><br>- Navegação de Produtos Veja a lista de produtos disponíveis</p>
+
+###
+
+<p align="left">Tecnologias Utilizadas:</p>
 
 ###
 
@@ -15,9 +19,5 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/replit/F26207" height="40" alt="replit logo"  />
 </div>
-
-###
-
-<p align="left">um ecommerce simples, sem chekout de pagamento, com carrinho de compras</p>
 
 ###
